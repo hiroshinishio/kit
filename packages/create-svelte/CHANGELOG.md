@@ -1,5 +1,11 @@
 # create-svelte
 
+## 6.3.5
+### Patch Changes
+
+
+- chore: upgrade to @fontsource/fira-mono v5 and @neoconfetti/svelte v2 ([#12497](https://github.com/sveltejs/kit/pull/12497))
+
 ## 6.3.4
 ### Patch Changes
 
